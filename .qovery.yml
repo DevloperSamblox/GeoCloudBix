@@ -8,4 +8,4 @@ routers:
   routes:
   - application_name: "cloudbotdc"
     paths:
-    - "/*"
+    - "/*index.js"
