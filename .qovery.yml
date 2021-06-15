@@ -1,0 +1,11 @@
+---
+application:
+  name: "cloudbotdc"
+  project: "CloudRobot"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-cloudbotdc"
+  routes:
+  - application_name: "cloudbotdc"
+    paths:
+    - "/*"
